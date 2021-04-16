@@ -7,6 +7,7 @@ En règle générale, les grandes entreprises n'ont pas assez de temps pour ouvr
 
 ## Dépendances:
 * Ce model requiert :
+  ```bash
   pip install beautifulsoup4
   pip install nltk
   pip install wordcloud
@@ -17,6 +18,7 @@ En règle générale, les grandes entreprises n'ont pas assez de temps pour ouvr
   pip install opencv-python
   pip install numpy
   pip install pandas
+  ```
 
 ##Utilisation de base:
 
